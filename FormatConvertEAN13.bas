@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module3"
+Attribute VB_Name = "EAN13"
 
 Function FormatConvertEAN13(Any_r As Range) As String
 Dim sval As String
