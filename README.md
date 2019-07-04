@@ -1,3 +1,3 @@
 # FormatConvertEAN13_VBA_Function
 
-###Convert digits to EAN13
+### Convert digits to EAN13
